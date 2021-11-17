@@ -32,8 +32,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun_github.sh
-          ./autorun_github.sh
+           chmod +x autorun.sh
+          ./autorun.sh
           #cd scripts
           #python3 autoCRON.py > ../ustvgo.m3u
           echo "m3u grabbed"
