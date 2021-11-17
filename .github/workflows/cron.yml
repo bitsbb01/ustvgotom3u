@@ -27,17 +27,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-      
-      
-      - name: Main
-        run: |
+          
           chmod +x autorun.sh
           ./autorun.sh
-        
-      - name: git add
-        run: |
-          git add -A
-          ls -la 
+      
+             
           
       - name: commit & push
         run: |
