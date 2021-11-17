@@ -31,7 +31,7 @@ jobs:
       
       - name: Main
         run: |
-          python3 autoCRON.py > ../ustvgo.m3u
+          python3 autoCRON.py
           echo "m3u grabbed"
         
       - name: git add
