@@ -27,6 +27,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          pip uninstall tqdm
+          python3 -m pip install tqdm
           
           chmod +x autorun.sh
           ./autorun.sh
