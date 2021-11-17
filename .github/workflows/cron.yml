@@ -4,11 +4,17 @@ name: ustvgo_m3ugrabber
 
 # Controls when the workflow will run
 on:
-  schedule:
-    - cron: '0 4,16 * * *'
-  
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  # Run 6 Hours after https://github.com/bitsbb01/iptvcat-scrapper
+  # 12.10 UTC Time, 06.10 Central Time
+  # Due to the yourube scripts running, it now runs every 3 hrs to make sure the youtube m3us are upto date.
+  schedule:
+#    - cron: "10 6 * * *"
+    - cron: "0 0/3 * * *"
+  push:
+    branches:
+    - master
+    - main
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -27,8 +33,14 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+      - name: uninstall tqdm
+        run: |
           pip uninstall tqdm
           python3 -m pip install tqdm
+
+      - name: run script
+        run: |
           
           chmod +x autorun.sh
           ./autorun.sh
