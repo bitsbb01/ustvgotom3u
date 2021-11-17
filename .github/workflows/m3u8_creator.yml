@@ -36,14 +36,9 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.9'
-
+          run: |
+                python  ./autoCRON.py
       
-      ### PROCESS THE DATA ###
-      - name: grab files
-        run: |
-          echo "Command: './python3 autoCRON.py'"
-          python  ./autoCRON.py
-          
           
         
       - name: git add
