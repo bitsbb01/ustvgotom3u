@@ -41,7 +41,6 @@ jobs:
 
       - name: run script
         run: |
-          
           chmod +x autorun.sh
           ./autorun.sh
       
