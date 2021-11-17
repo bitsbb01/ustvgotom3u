@@ -31,8 +31,8 @@ jobs:
       
       - name: Main
         run: |
-          python3 autoCRON.py
-          echo "m3u grabbed"
+          chmod +x autorun.sh
+          ./autorun.sh
         
       - name: git add
         run: |
