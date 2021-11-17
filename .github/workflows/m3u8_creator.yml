@@ -37,11 +37,10 @@ jobs:
           git config --local user.name "GitHub Action"
       
       
+
       - name: Main
         run: |
-          pwd
-          chmod +x autorun.sh
-          ./autorun.sh
+         python3 autoCRON.py
         
       - name: git add
         run: |
