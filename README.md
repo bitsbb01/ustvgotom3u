@@ -1,4 +1,6 @@
 <h1 align="center"> ustvgo_to_m3u </h1>
+This has been moded slightly to store the m3u file in local dir. The original script can be found at 
+https://github.com/benmoose39/ustvgo_to_m3u
 
 Grabs m3u links from ustvgo.tv
 
