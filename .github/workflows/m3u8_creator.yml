@@ -30,17 +30,21 @@ jobs:
       #- name: Run a one-line script
       #  run: echo testing!
 
-      # Runs a set of commands using the runners shell 
-      - name: config
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
       
-      
+            ### SETUP THE ENVIRONMENT
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
 
-      - name: Main
+      
+      ### PROCESS THE DATA ###
+      - name: grab files
         run: |
-         python3 autoCRON.py
+          echo "Command: './python3 autoCRON.py'"
+          python  ./autoCRON.py
+          
+          
         
       - name: git add
         run: |
