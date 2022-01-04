@@ -11,190 +11,190 @@
 
 
 #EXTINF:-1 tvg-id="ABC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png", ABC
-https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDowNyBBTSZoYXNoX3ZhbHVlPVpFcXFWT29rdG03Uzk5RkJMb0RWY1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjoyNyBBTSZoYXNoX3ZhbHVlPUJwSVdQdjMxM2ZURE44ZHRMbEhrNlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="ACCN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/acc-network-us.png", ACC Network
-https://h3.ustvgo.la/ACCN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDowOCBBTSZoYXNoX3ZhbHVlPUM0RHZVbjZDaUErSEhuQWliM0V6bHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/ACCN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjoyNyBBTSZoYXNoX3ZhbHVlPUJwSVdQdjMxM2ZURE44ZHRMbEhrNlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="AE" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png", AE
-https://h3.ustvgo.la/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDowOCBBTSZoYXNoX3ZhbHVlPUM0RHZVbjZDaUErSEhuQWliM0V6bHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjoyOCBBTSZoYXNoX3ZhbHVlPWNDbTdTQ2dXRis2TTk2bkZmaDZXTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="AMC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/amc-us.png", AMC
-https://h3.ustvgo.la/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDowOCBBTSZoYXNoX3ZhbHVlPUM0RHZVbjZDaUErSEhuQWliM0V6bHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjoyOCBBTSZoYXNoX3ZhbHVlPWNDbTdTQ2dXRis2TTk2bkZmaDZXTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Animal" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/animal-planet-us.png", Animal Planet
-https://h3.ustvgo.la/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDowOSBBTSZoYXNoX3ZhbHVlPTByNXcxUkgybVoyRS9DdUM3emc2SVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjoyOCBBTSZoYXNoX3ZhbHVlPWNDbTdTQ2dXRis2TTk2bkZmaDZXTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="BBCAmerica" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/bbc-america-us.png", BBCAmerica
-https://h3.ustvgo.la/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDowOSBBTSZoYXNoX3ZhbHVlPTByNXcxUkgybVoyRS9DdUM3emc2SVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjoyOSBBTSZoYXNoX3ZhbHVlPXJObEZrQ251N1ZNWnlvRUpqVHV0VHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="BTN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/btn-us.png", Big Ten Network
-https://h3.ustvgo.la/BTN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMCBBTSZoYXNoX3ZhbHVlPW94djRhU1p6QmwxQVNkMEFyQWRURmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/BTN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjoyOSBBTSZoYXNoX3ZhbHVlPXJObEZrQ251N1ZNWnlvRUpqVHV0VHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="BET" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bet-us.png", BET
-https://h3.ustvgo.la/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMCBBTSZoYXNoX3ZhbHVlPW94djRhU1p6QmwxQVNkMEFyQWRURmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMCBBTSZoYXNoX3ZhbHVlPVZMcG5uQ1ZrM1VUMWU3QXdYL2tsWEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Boomerang" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/boomerang-us.png", Boomerang
-https://h3.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMCBBTSZoYXNoX3ZhbHVlPW94djRhU1p6QmwxQVNkMEFyQWRURmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMCBBTSZoYXNoX3ZhbHVlPVZMcG5uQ1ZrM1VUMWU3QXdYL2tsWEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Bravo" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bravo-us.png", Bravo
-https://h3.ustvgo.la/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMSBBTSZoYXNoX3ZhbHVlPUFwcHIzc0MrOVhQR3puTWFlc1dOeGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMSBBTSZoYXNoX3ZhbHVlPVovQlp1SHRpNThmdElCRTFZMk42N0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="CSPAN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/c-span-1-us.png", C-span
-https://h3.ustvgo.la/CSPAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMSBBTSZoYXNoX3ZhbHVlPUFwcHIzc0MrOVhQR3puTWFlc1dOeGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/CSPAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMSBBTSZoYXNoX3ZhbHVlPVovQlp1SHRpNThmdElCRTFZMk42N0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="CBS" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png", CBS
-https://h3.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMiBBTSZoYXNoX3ZhbHVlPTdPRmE5MCtaVldlSTRsMmk1UkZ1aEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMSBBTSZoYXNoX3ZhbHVlPVovQlp1SHRpNThmdElCRTFZMk42N0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="CBSSN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-sports-network-us.png", CBS Sports Network
-https://h3.ustvgo.la/CBSSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMiBBTSZoYXNoX3ZhbHVlPTdPRmE5MCtaVldlSTRsMmk1UkZ1aEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/CBSSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMiBBTSZoYXNoX3ZhbHVlPW5taEhBRjVad01neFhXT3c2RjFQMmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Cinemax" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cinemax-us.png", Cinemax
-https://h3.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMiBBTSZoYXNoX3ZhbHVlPTdPRmE5MCtaVldlSTRsMmk1UkZ1aEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMiBBTSZoYXNoX3ZhbHVlPW5taEhBRjVad01neFhXT3c2RjFQMmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="CMT" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cmt-us.png", CMT
-https://h3.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMyBBTSZoYXNoX3ZhbHVlPXRKWVRSdkVxMWxRUHloUWRXRCtoMFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMyBBTSZoYXNoX3ZhbHVlPWtibkkxQjMrbUg5SGRSM1ZwaDhBSVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="CN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/cartoon-network-us.png", Cartoon Network
-https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxMyBBTSZoYXNoX3ZhbHVlPXRKWVRSdkVxMWxRUHloUWRXRCtoMFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMyBBTSZoYXNoX3ZhbHVlPWtibkkxQjMrbUg5SGRSM1ZwaDhBSVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="CNBC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/cnbc-us.png", CNBC
-https://h1.ustvgo.la/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNCBBTSZoYXNoX3ZhbHVlPVVQRmYzZGJXOWRQR3JXb1pLU1MrRGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozMyBBTSZoYXNoX3ZhbHVlPWtibkkxQjMrbUg5SGRSM1ZwaDhBSVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="CNN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cnn-us.png", CNN
-https://h1.ustvgo.la/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNCBBTSZoYXNoX3ZhbHVlPVVQRmYzZGJXOWRQR3JXb1pLU1MrRGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozNCBBTSZoYXNoX3ZhbHVlPWFrYXVVU0pJdjY2ZkR3RzdVT1pTSGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Comedy" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/comedy-central-us.png", Comedy Central
-https://h1.ustvgo.la/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNCBBTSZoYXNoX3ZhbHVlPVVQRmYzZGJXOWRQR3JXb1pLU1MrRGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozNCBBTSZoYXNoX3ZhbHVlPWFrYXVVU0pJdjY2ZkR3RzdVT1pTSGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="CW" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cw-us.png", CW
-https://h1.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNSBBTSZoYXNoX3ZhbHVlPVZkOC80blk5a0V2R094QTMwZnQ1OGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozNSBBTSZoYXNoX3ZhbHVlPUJ4MmFKY0dPRlh4OEFRQTNHblp4ZFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="DA" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/destination-america-us.png", Destination America
-https://h1.ustvgo.la/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNSBBTSZoYXNoX3ZhbHVlPVZkOC80blk5a0V2R094QTMwZnQ1OGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozNSBBTSZoYXNoX3ZhbHVlPUJ4MmFKY0dPRlh4OEFRQTNHblp4ZFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Discovery" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-channel-us.png", Discovery
-https://h1.ustvgo.la/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNiBBTSZoYXNoX3ZhbHVlPTh0QXZ2QXhQNVZNNjVUdTdYTU9KTlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozNSBBTSZoYXNoX3ZhbHVlPUJ4MmFKY0dPRlh4OEFRQTNHblp4ZFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Disney" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-channel-us.png", Disney
-https://h1.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNiBBTSZoYXNoX3ZhbHVlPTh0QXZ2QXhQNVZNNjVUdTdYTU9KTlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozNiBBTSZoYXNoX3ZhbHVlPVExWTl6WHcwS1BNOGk3aGtwUVRKUHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="DisneyJr" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-junior-us.png", DisneyJr
-https://h1.ustvgo.la/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNyBBTSZoYXNoX3ZhbHVlPTE5eTBoRUR0OG1JOEZ6NTgvSEJJVkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozNiBBTSZoYXNoX3ZhbHVlPVExWTl6WHcwS1BNOGk3aGtwUVRKUHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="DisneyXD" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/disney-xd-us.png", DisneyXD
-https://h1.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNyBBTSZoYXNoX3ZhbHVlPTE5eTBoRUR0OG1JOEZ6NTgvSEJJVkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozNyBBTSZoYXNoX3ZhbHVlPTdMTVVBd3pRdGRWVEtWNXRmdzNKTXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="DIY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/diy-network-us.png", Do it yourself (DIY)
-https://h1.ustvgo.la/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxNyBBTSZoYXNoX3ZhbHVlPTE5eTBoRUR0OG1JOEZ6NTgvSEJJVkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozNyBBTSZoYXNoX3ZhbHVlPTdMTVVBd3pRdGRWVEtWNXRmdzNKTXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="E" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/e-entertainment-us.png", E!
-https://h1.ustvgo.la/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxOCBBTSZoYXNoX3ZhbHVlPUdpZ29XK3M1MGRZMnBrZndSTGtrM3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozOCBBTSZoYXNoX3ZhbHVlPUxmSkhqczZIbW1jNFp1QitqdjFUTEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="ESPN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/espn-us.png", ESPN
-https://h1.ustvgo.la/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxOCBBTSZoYXNoX3ZhbHVlPUdpZ29XK3M1MGRZMnBrZndSTGtrM3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozOCBBTSZoYXNoX3ZhbHVlPUxmSkhqczZIbW1jNFp1QitqdjFUTEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="ESPN2" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espn-2-us.png", ESPN2
-https://h1.ustvgo.la/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxOSBBTSZoYXNoX3ZhbHVlPW5YcmpDUzZDYkNjR3UvaTJyZXdqZGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozOCBBTSZoYXNoX3ZhbHVlPUxmSkhqczZIbW1jNFp1QitqdjFUTEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="ESPNU" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espn-u-us.png", ESPNU
-https://h1.ustvgo.la/ESPNU/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoxOSBBTSZoYXNoX3ZhbHVlPW5YcmpDUzZDYkNjR3UvaTJyZXdqZGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/ESPNU/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozOSBBTSZoYXNoX3ZhbHVlPXNhM3JJYXJsZE5RMnplR1dmb2h3c3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="ESPNews" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espnews-us.png", ESPNews
-https://h1.ustvgo.la/ESPNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMCBBTSZoYXNoX3ZhbHVlPWpGMFcyMXJBR3NwMy93YmpGamM1NHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/ESPNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MjozOSBBTSZoYXNoX3ZhbHVlPXNhM3JJYXJsZE5RMnplR1dmb2h3c3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="FoodNetwork" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/food-network-us.png", FoodNetwork
-https://h1.ustvgo.la/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMCBBTSZoYXNoX3ZhbHVlPWpGMFcyMXJBR3NwMy93YmpGamM1NHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MCBBTSZoYXNoX3ZhbHVlPTRoU1dmZ29yMDRGeVpTVDkrR2YwdVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="FOX" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png", FOX
-https://h1.ustvgo.la/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMCBBTSZoYXNoX3ZhbHVlPWpGMFcyMXJBR3NwMy93YmpGamM1NHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MCBBTSZoYXNoX3ZhbHVlPTRoU1dmZ29yMDRGeVpTVDkrR2YwdVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="FoxBusiness" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-business-us.png", FoxBusiness
-https://h1.ustvgo.la/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMSBBTSZoYXNoX3ZhbHVlPXZ4SmtNRWErdE8xb05mK0owK2FSZnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MCBBTSZoYXNoX3ZhbHVlPTRoU1dmZ29yMDRGeVpTVDkrR2YwdVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="FoxNews" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-news-us.png", FoxNews
-https://h1.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMSBBTSZoYXNoX3ZhbHVlPXZ4SmtNRWErdE8xb05mK0owK2FSZnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MSBBTSZoYXNoX3ZhbHVlPVlzTEtsR3lzK1gvMjJwS09iMG5pcFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Freeform" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/freeform-us.png", Freeform
-https://h1.ustvgo.la/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMiBBTSZoYXNoX3ZhbHVlPVNsbXlNRnlNVDUzOTVYdUlFSmZSaGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MSBBTSZoYXNoX3ZhbHVlPVlzTEtsR3lzK1gvMjJwS09iMG5pcFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="FS1" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-1-us.png", Fox Sports 1 (FS1)
-https://h1.ustvgo.la/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMiBBTSZoYXNoX3ZhbHVlPVNsbXlNRnlNVDUzOTVYdUlFSmZSaGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MiBBTSZoYXNoX3ZhbHVlPStYVy9lbTRaTFBzQ2dLWWpJTy9Zamc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="FS2" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-2-us.png", Fox Sports 2 (FS2)
-https://h1.ustvgo.la/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMyBBTSZoYXNoX3ZhbHVlPWo2VTRZcVpNeHJPaVNoS2gvRjRSeEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MiBBTSZoYXNoX3ZhbHVlPStYVy9lbTRaTFBzQ2dLWWpJTy9Zamc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="FX" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fx-us.png", FX
-https://h1.ustvgo.la/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMyBBTSZoYXNoX3ZhbHVlPWo2VTRZcVpNeHJPaVNoS2gvRjRSeEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MyBBTSZoYXNoX3ZhbHVlPUpoeXg4Qy9ETy9mSFhWT0pYSTJrd2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="FXMovie" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/fxm-movie-channel-us.png", FX Movie Channel
-https://h1.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyMyBBTSZoYXNoX3ZhbHVlPWo2VTRZcVpNeHJPaVNoS2gvRjRSeEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MyBBTSZoYXNoX3ZhbHVlPUpoeXg4Qy9ETy9mSFhWT0pYSTJrd2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="FXX" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fxx-us.png", FXX
-https://h1.ustvgo.la/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNCBBTSZoYXNoX3ZhbHVlPWlLelFKYUcyY21aS2dMR01HRVFJaUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0MyBBTSZoYXNoX3ZhbHVlPUpoeXg4Qy9ETy9mSFhWT0pYSTJrd2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="GOLF" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-golf-channel-us.png", Golf Channel
-https://h1.ustvgo.la/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNCBBTSZoYXNoX3ZhbHVlPWlLelFKYUcyY21aS2dMR01HRVFJaUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0NCBBTSZoYXNoX3ZhbHVlPStKUWVKbEVibHNoSHNucEhINU1pMWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="GSN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/game-show-network-us.png", Game Show Network
-https://h1.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNSBBTSZoYXNoX3ZhbHVlPTZhZEVnblhaYTM1djIwdWNtYXM4Nnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0NCBBTSZoYXNoX3ZhbHVlPStKUWVKbEVibHNoSHNucEhINU1pMWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Hallmark" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hallmark-us.png", Hallmark Channel
-https://h1.ustvgo.la/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNSBBTSZoYXNoX3ZhbHVlPTZhZEVnblhaYTM1djIwdWNtYXM4Nnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0NSBBTSZoYXNoX3ZhbHVlPTc4MzZqZTdlSWJUUmR4U0Y3SnNCT1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="HBO" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png", HBO
-https://h1.ustvgo.la/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNSBBTSZoYXNoX3ZhbHVlPTZhZEVnblhaYTM1djIwdWNtYXM4Nnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0NSBBTSZoYXNoX3ZhbHVlPTc4MzZqZTdlSWJUUmR4U0Y3SnNCT1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="HGTV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hgtv-us.png", HGTV
-https://h1.ustvgo.la/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNiBBTSZoYXNoX3ZhbHVlPUZ0RVdVSEhzcGlDTTByUWgzd0dXUVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0NSBBTSZoYXNoX3ZhbHVlPTc4MzZqZTdlSWJUUmR4U0Y3SnNCT1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="History" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/history-channel-us.png", History
-https://h1.ustvgo.la/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNiBBTSZoYXNoX3ZhbHVlPUZ0RVdVSEhzcGlDTTByUWgzd0dXUVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0NiBBTSZoYXNoX3ZhbHVlPXJQRkU1MHZUWFR2Y25sRVVlRUJLRXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="HLN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hln-us.png", HLN
-https://h1.ustvgo.la/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNyBBTSZoYXNoX3ZhbHVlPS9YYThtV2lVMzl6UDdUYWdNMmE0YWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0NiBBTSZoYXNoX3ZhbHVlPXJQRkU1MHZUWFR2Y25sRVVlRUJLRXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="HMM" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hallmark-movies-and-mysteries-us.png", Hallmark Movies & Mysteries
-https://h1.ustvgo.la/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNyBBTSZoYXNoX3ZhbHVlPS9YYThtV2lVMzl6UDdUYWdNMmE0YWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0NyBBTSZoYXNoX3ZhbHVlPVNDcnhmcXJNQlRYeVhtTWlWVU4vSXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="ID" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/investigation-discovery-us.png", Investigation Discovery
-https://h1.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyNyBBTSZoYXNoX3ZhbHVlPS9YYThtV2lVMzl6UDdUYWdNMmE0YWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0NyBBTSZoYXNoX3ZhbHVlPVNDcnhmcXJNQlRYeVhtTWlWVU4vSXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Lifetime" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/lifetime-us.png", Lifetime
-https://h1.ustvgo.la/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyOCBBTSZoYXNoX3ZhbHVlPWV2a2lPYTBFSDBjd3VTMUNJQkxqWmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0OCBBTSZoYXNoX3ZhbHVlPVFXNkEyaTNGUVJZS1Z0b3VsckJSMUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="LifetimeM" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/lifetime-movie-network-us.png", Lifetime Movie Network
-https://h1.ustvgo.la/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyOCBBTSZoYXNoX3ZhbHVlPWV2a2lPYTBFSDBjd3VTMUNJQkxqWmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0OCBBTSZoYXNoX3ZhbHVlPVFXNkEyaTNGUVJZS1Z0b3VsckJSMUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="MLB" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/mlb-network-us.png", MLB Network
-https://h1.ustvgo.la/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyOSBBTSZoYXNoX3ZhbHVlPVgxb2NrZmdURk0xYVB1QUJDRXByOGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0OCBBTSZoYXNoX3ZhbHVlPVFXNkEyaTNGUVJZS1Z0b3VsckJSMUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="MotorTrend" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/motor-trend-us.png", Motor Trend
-https://h1.ustvgo.la/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDoyOSBBTSZoYXNoX3ZhbHVlPVgxb2NrZmdURk0xYVB1QUJDRXByOGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0OSBBTSZoYXNoX3ZhbHVlPXp1cjBtTDM2bDF4R3I5SWxRMnhLaGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="MSNBC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/msnbc-alt-us.png", MSNBC
-https://h1.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMCBBTSZoYXNoX3ZhbHVlPXRGZU1RRGdMa2RYQVh5dzd3NmkyUlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo0OSBBTSZoYXNoX3ZhbHVlPXp1cjBtTDM2bDF4R3I5SWxRMnhLaGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="MTV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/mtv-us.png", MTV
-https://h1.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMCBBTSZoYXNoX3ZhbHVlPXRGZU1RRGdMa2RYQVh5dzd3NmkyUlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MCBBTSZoYXNoX3ZhbHVlPU9LYXNwcFdlY01XbGVzU0lnbG41TVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="NatGEO" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/national-geographic-us.png", National Geographic
-https://h1.ustvgo.la/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMCBBTSZoYXNoX3ZhbHVlPXRGZU1RRGdMa2RYQVh5dzd3NmkyUlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MCBBTSZoYXNoX3ZhbHVlPU9LYXNwcFdlY01XbGVzU0lnbG41TVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="NatGEOWild" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nat-geo-wild-us.png", Nat Geo Wild
-https://h1.ustvgo.la/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMSBBTSZoYXNoX3ZhbHVlPWFjUW5xUkV1cGdxb2lKZnFYM2lPTlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MCBBTSZoYXNoX3ZhbHVlPU9LYXNwcFdlY01XbGVzU0lnbG41TVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="NBA" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nba-tv-us.png", NBA TV
-https://h1.ustvgo.la/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMSBBTSZoYXNoX3ZhbHVlPWFjUW5xUkV1cGdxb2lKZnFYM2lPTlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MSBBTSZoYXNoX3ZhbHVlPUpJNlJjQ2NPdll3K1RRNkpPSm0vTFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="NBC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png", NBC
-https://h1.ustvgo.la/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMiBBTSZoYXNoX3ZhbHVlPThlTFZway83NVdYYlBGZkpwSFcvaHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MSBBTSZoYXNoX3ZhbHVlPUpJNlJjQ2NPdll3K1RRNkpPSm0vTFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="NBCSN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbcsn-us.png", NBC Sports (NBCSN)
-https://h1.ustvgo.la/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMiBBTSZoYXNoX3ZhbHVlPThlTFZway83NVdYYlBGZkpwSFcvaHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MiBBTSZoYXNoX3ZhbHVlPXFZUjQvWWNQNjBOZzJ2aU9ONDZCdnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="NFL" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/nfl-network-us.png", NFL Network
-https://h1.ustvgo.la/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMiBBTSZoYXNoX3ZhbHVlPThlTFZway83NVdYYlBGZkpwSFcvaHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MiBBTSZoYXNoX3ZhbHVlPXFZUjQvWWNQNjBOZzJ2aU9ONDZCdnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="NFLRZ" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nfl-red-zone-us.png", NFL Redzone
-https://h1.ustvgo.la/NFLRZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMyBBTSZoYXNoX3ZhbHVlPUtOMmZYVUhWd1hrZUE2RHVvMzZiaVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/NFLRZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MiBBTSZoYXNoX3ZhbHVlPXFZUjQvWWNQNjBOZzJ2aU9ONDZCdnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nickelodeon-us.png", Nickelodeon
-https://h1.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozMyBBTSZoYXNoX3ZhbHVlPUtOMmZYVUhWd1hrZUE2RHVvMzZiaVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MyBBTSZoYXNoX3ZhbHVlPVV0ZENBOHBOdS9ZMm5hS0ZjRFZGakE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Nicktoons" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nick-toons-us.png", Nicktoons
-https://h1.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNCBBTSZoYXNoX3ZhbHVlPVpIbHh1RnZkdFNNbStZeW92WC9PckE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1MyBBTSZoYXNoX3ZhbHVlPVV0ZENBOHBOdS9ZMm5hS0ZjRFZGakE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="OAN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/one-america-news-network-us.png", One America News Network
-https://h1.ustvgo.la/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNCBBTSZoYXNoX3ZhbHVlPVpIbHh1RnZkdFNNbStZeW92WC9PckE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NCBBTSZoYXNoX3ZhbHVlPTN4dHNCTEFiS1ptWi9GMC84cEpXcGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="OWN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/opra-winfrey-network-us.png", Oprah Winfrey Network (OWN)
-https://h1.ustvgo.la/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNCBBTSZoYXNoX3ZhbHVlPVpIbHh1RnZkdFNNbStZeW92WC9PckE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NCBBTSZoYXNoX3ZhbHVlPTN4dHNCTEFiS1ptWi9GMC84cEpXcGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="OLY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/olympics.png", Olympic Channel
-https://h1.ustvgo.la/OLY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNSBBTSZoYXNoX3ZhbHVlPTNnclFLMXJhOUJDVTVUcVVXaDkyU2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/OLY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NCBBTSZoYXNoX3ZhbHVlPTN4dHNCTEFiS1ptWi9GMC84cEpXcGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Oxygen" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/oxygen-us.png", Oxygen
-https://h1.ustvgo.la/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNSBBTSZoYXNoX3ZhbHVlPTNnclFLMXJhOUJDVTVUcVVXaDkyU2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NSBBTSZoYXNoX3ZhbHVlPVV6aGF6RzNFMkNtNG1aODg5TG9nVmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Paramount" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/paramount-network-us.png", Paramount
-https://h1.ustvgo.la/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNiBBTSZoYXNoX3ZhbHVlPWJrVTJhOFZiUmhKUW9xUTdoRW1LdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NSBBTSZoYXNoX3ZhbHVlPVV6aGF6RzNFMkNtNG1aODg5TG9nVmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="PBS" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/pbs-us.png", PBS
-https://h1.ustvgo.la/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNiBBTSZoYXNoX3ZhbHVlPWJrVTJhOFZiUmhKUW9xUTdoRW1LdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NiBBTSZoYXNoX3ZhbHVlPVdrSUdVQmVRTDdxSDUzVk01cHZ5d1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="POP" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/pop-us.png", POP
-https://h1.ustvgo.la/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNyBBTSZoYXNoX3ZhbHVlPUlVeHYzRHhNSFZtNk96TEsrSTNKdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NiBBTSZoYXNoX3ZhbHVlPVdrSUdVQmVRTDdxSDUzVk01cHZ5d1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Science" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-science-us.png", Science
-https://h1.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNyBBTSZoYXNoX3ZhbHVlPUlVeHYzRHhNSFZtNk96TEsrSTNKdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NyBBTSZoYXNoX3ZhbHVlPWllQlI0K1VIbE0zZzlVbUxQVkVub1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="SECN" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sec-network-us.png", SEC Network
-https://h1.ustvgo.la/SECN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozNyBBTSZoYXNoX3ZhbHVlPUlVeHYzRHhNSFZtNk96TEsrSTNKdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/SECN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NyBBTSZoYXNoX3ZhbHVlPWllQlI0K1VIbE0zZzlVbUxQVkVub1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Showtime" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/showtime-us.png", Showtime
-https://h1.ustvgo.la/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozOCBBTSZoYXNoX3ZhbHVlPW5NaEljSnlGTVZBaUQ5T0lyeG80Q0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1NyBBTSZoYXNoX3ZhbHVlPWllQlI0K1VIbE0zZzlVbUxQVkVub1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="StarZ" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/starz-us.png", StarZ
-https://h1.ustvgo.la/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozOCBBTSZoYXNoX3ZhbHVlPW5NaEljSnlGTVZBaUQ5T0lyeG80Q0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1OCBBTSZoYXNoX3ZhbHVlPWdtVXVoc1d5V1lYcGMzc3B1b1d5Mmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="SundanceTV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sundance-tv-us.png", SundanceTV
-https://h1.ustvgo.la/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozOSBBTSZoYXNoX3ZhbHVlPWJPVGJjSkZzY2J6cytMNzE3WEFCb0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1OCBBTSZoYXNoX3ZhbHVlPWdtVXVoc1d5V1lYcGMzc3B1b1d5Mmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="SYFY" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/syfy-us.png", SYFY
-https://h1.ustvgo.la/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozOSBBTSZoYXNoX3ZhbHVlPWJPVGJjSkZzY2J6cytMNzE3WEFCb0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1OSBBTSZoYXNoX3ZhbHVlPTFUeW1pYXVWL2JTMDRpYzN1Mnd3QVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="TBS" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tbs-us.png", TBS
-https://h1.ustvgo.la/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDozOSBBTSZoYXNoX3ZhbHVlPWJPVGJjSkZzY2J6cytMNzE3WEFCb0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1OSBBTSZoYXNoX3ZhbHVlPTFUeW1pYXVWL2JTMDRpYzN1Mnd3QVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="TCM" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tcm-movies-us.png", Turner Classic Movies (TCM)
-https://h1.ustvgo.la/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0MCBBTSZoYXNoX3ZhbHVlPURDYnAvd1ZnWHRHczZXaHpDTEdyTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1Mjo1OSBBTSZoYXNoX3ZhbHVlPTFUeW1pYXVWL2JTMDRpYzN1Mnd3QVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Telemundo" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/telemundo-us.png", Telemundo
-https://h1.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0MCBBTSZoYXNoX3ZhbHVlPURDYnAvd1ZnWHRHczZXaHpDTEdyTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMCBBTSZoYXNoX3ZhbHVlPUdwSmVDckN4NFZTWkc0V1QwZFBadWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Tennis" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tennis-channel-us.png", Tennis Channel
-https://h1.ustvgo.la/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0MSBBTSZoYXNoX3ZhbHVlPXdTRU9xNXN5blZreWhDaThqR1l2QlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMCBBTSZoYXNoX3ZhbHVlPUdwSmVDckN4NFZTWkc0V1QwZFBadWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="TLC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tlc-us.png", TLC
-https://h1.ustvgo.la/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0MSBBTSZoYXNoX3ZhbHVlPXdTRU9xNXN5blZreWhDaThqR1l2QlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMSBBTSZoYXNoX3ZhbHVlPUswV1p1UVRBQzczYVQvb0tUMWJ2TWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="TNT" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tnt-us.png", TNT
-https://h1.ustvgo.la/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0MSBBTSZoYXNoX3ZhbHVlPXdTRU9xNXN5blZreWhDaThqR1l2QlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMSBBTSZoYXNoX3ZhbHVlPUswV1p1UVRBQzczYVQvb0tUMWJ2TWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Travel" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/travel-channel-us.png", Travel Channel
-https://h1.ustvgo.la/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0MiBBTSZoYXNoX3ZhbHVlPTJLNlUwUUhsSFJ1QlJ4YnQvcDJVd3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMiBBTSZoYXNoX3ZhbHVlPWZWS3czR3U4T1JiNlFLRTNIZ0NOWkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="TruTV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tru-tv-us.png", truTV
-https://h1.ustvgo.la/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0MiBBTSZoYXNoX3ZhbHVlPTJLNlUwUUhsSFJ1QlJ4YnQvcDJVd3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMiBBTSZoYXNoX3ZhbHVlPWZWS3czR3U4T1JiNlFLRTNIZ0NOWkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="TVLand" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tv-land-us.png", TV Land
-https://h1.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0MyBBTSZoYXNoX3ZhbHVlPXphV3JObENjZ1FaV2xUSUlhQUZUamc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMiBBTSZoYXNoX3ZhbHVlPWZWS3czR3U4T1JiNlFLRTNIZ0NOWkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="TWC" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/weather-channel-us.png", The Weather Channel
-https://h1.ustvgo.la/TWC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0MyBBTSZoYXNoX3ZhbHVlPXphV3JObENjZ1FaV2xUSUlhQUZUamc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/TWC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMyBBTSZoYXNoX3ZhbHVlPTFvV3Zzc040dGxNemlvcU92M1czTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Univision" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/univision-us.png", Univision
-https://h1.ustvgo.la/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0NCBBTSZoYXNoX3ZhbHVlPStDMW10NUN4NVQ3akJiUnV0T3hLSWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h1.ustvgo.la/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMyBBTSZoYXNoX3ZhbHVlPTFvV3Zzc040dGxNemlvcU92M1czTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="USANetwork" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/usa-us.png", USA Network
-https://h1.ustvgo.la/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0NCBBTSZoYXNoX3ZhbHVlPStDMW10NUN4NVQ3akJiUnV0T3hLSWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowMyBBTSZoYXNoX3ZhbHVlPTFvV3Zzc040dGxNemlvcU92M1czTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="VH1" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/vh1-us.png", VH1
-https://h1.ustvgo.la/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0NCBBTSZoYXNoX3ZhbHVlPStDMW10NUN4NVQ3akJiUnV0T3hLSWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowNCBBTSZoYXNoX3ZhbHVlPWFLK3l5ZzVqTENNM3hmdkI2MlF3S3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="WETV" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/we-tv-us.png", We TV
-https://h1.ustvgo.la/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0NSBBTSZoYXNoX3ZhbHVlPUtXMk8yTjRtRyt0ME9vdGlSSGZMcmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowNCBBTSZoYXNoX3ZhbHVlPWFLK3l5ZzVqTENNM3hmdkI2MlF3S3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="WWE" group-title="ustvgo" tvg-logo="https://i.imgur.com/VJoF3bh.png", WWE Network
-https://h1.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0NSBBTSZoYXNoX3ZhbHVlPUtXMk8yTjRtRyt0ME9vdGlSSGZMcmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowNSBBTSZoYXNoX3ZhbHVlPTE1L1JsRFBMNk5zQml0K0E5VmFTQ1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="YES" group-title="ustvgo" tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/yes-network-us.png", YES Network
-https://h1.ustvgo.la/YES/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgNTo1NDo0NSBBTSZoYXNoX3ZhbHVlPUtXMk8yTjRtRyt0ME9vdGlSSGZMcmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/YES/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjIgODo1MzowNSBBTSZoYXNoX3ZhbHVlPTE1L1JsRFBMNk5zQml0K0E5VmFTQ1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
