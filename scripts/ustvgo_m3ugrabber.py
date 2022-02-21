@@ -40,9 +40,29 @@ while True:
             input(f'[!] Playlist generation failed. Press Ctrl+C to exit...')
             done()
 
-def grab(name, code, logo):
-    data = {'stream': code}
-    m3u = s.post('https://ustvgo.tv/data.php', data=data).text
+def getSample():
+    vpn = False
+    headers = {'Referer':'https://ustvgo.tv/'}
+    src = s.get('https://ustvgo.tv/player.php?stream=ABC', headers=headers).text
+    global novpn_sample
+    novpn_sample = src.split("hls_src='")[1].split("'")[0]
+    src = s.get('https://ustvgo.tv/player.php?stream=BET', headers=headers).text
+    global vpn_sample
+    if '.m3u8' in src:
+        vpn_sample = src.split("hls_src='")[1].split("'")[0]
+    else:
+        vpn_sample = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u'
+
+def grab(line):
+    if not vpn_sample:
+        getSample()
+    name = line[0].strip()
+    code = line[1].strip()
+    logo = line[2].strip()
+    if line[-1].strip() == 'VPN':
+        m3u = vpn_sample.replace('BET', code)
+    else:
+        m3u = novpn_sample.replace('ABC', code)
     playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
     playlist.write(f'\n{m3u}')
 
@@ -61,16 +81,15 @@ with open('../ustvgo_channel_info.txt') as file:
         playlist.write('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Theitfixer85/myepg/master/blueepg.xml.gz"')
         playlist.write(f'\n{banner}\n')
         pbar = tqdm(total=total)
+        vpn_sample = ''
+        novpn_sample = ''
         for line in file:
             line = line.strip()
             if not line or line.startswith('~~'):
                 continue
             line = line.split('|')
-            name = line[0].strip()
-            code = line[1].strip()
-            logo = line[2].strip()
             pbar.update(1)
-            grab(name, code, logo)
+            grab(line)
         pbar.close()
         print('\n[SUCCESS] Playlist is generated!\n')
         done()
