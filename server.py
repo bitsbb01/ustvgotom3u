@@ -2,7 +2,7 @@ import requests
 import os
 from flask import Flask, request
 
-SERVER_IP = '10.10.10.10'   # Edit this line
+SERVER_IP = '8.8.4.4'   # Edit this line
 PORT = 9000
 
 headers = {'Referer':'https://ustvgo.tv/'}
