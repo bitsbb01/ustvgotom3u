@@ -1,4 +1,4 @@
-ABC | abc-live-streaming-free | https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg
+ABC | ABC | https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg
 ACC Network  | ACCN | https://news.syr.edu/wp-content/uploads/2019/08/New-ACCNX-logo-690x489.jpg
 AE | AE | https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png
 AMC  | AMC | https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg
