@@ -31,7 +31,7 @@ def playlist_generator():
 def getChannel():
     code = request.args.get('id')
     head = '#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=818009,RESOLUTION=640x360,CODECS="avc1.64001f,mp4a.40.2"\n'
-    sample = requests.get(f'https://ustvgo.tv/player.php?stream={code}', headers=headers).text
+    sample = requests.get(f'https://ustvgo.tv/atob/{code}', headers=headers).text
     try:
         pl = sample.split("hls_src='")[1].split("'")[0]
         res = requests.get(pl)
