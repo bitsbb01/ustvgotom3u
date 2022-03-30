@@ -43,7 +43,7 @@ while True:
 def getSample():
     vpn = False
     headers = {'Referer':'https://ustvgo.tv/'}
-    src = s.get('https://ustvgo.tv/atob/ABC', headers=headers).text
+    src = s.get('https://ustvgo.tv/player.php?stream=ABC', headers=headers).text
     global novpn_sample
     novpn_sample = src.split("hls_src='")[1].split("'")[0]
     src = s.get('https://ustvgo.tv/player.php?stream=BET', headers=headers).text
